@@ -74,11 +74,6 @@ This innovative system enhances solar energy efficiency, reliability, and cost-e
 
 ---
 
-## 📂 Explore the Project
-💻 **Check out the full project on GitHub:** [Solar Tracker Prototype Repository](https://github.com/STBreeze/Solar-Tracker-Prototype_Bachelors-Thesis)
-
----
-
 ## 📜 Research Recognition
 This project was submitted as a **Bachelor's Thesis** and has been officially recognized by **ASME (American Society of Mechanical Engineers)**. A confirmation of submission is available in the repository.
 
